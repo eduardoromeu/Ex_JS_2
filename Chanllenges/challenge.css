@@ -194,7 +194,7 @@ footer .container {
     /* Main */
 
     /* Footer */
-    footer{
+    .footer-fixed{
         background-color: black;
         width: 100%;
         position: initial;
